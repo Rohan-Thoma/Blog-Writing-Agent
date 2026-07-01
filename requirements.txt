@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-openai
+dotenv
+streamlit
+langchain_community
+ddgs
+pypdf
+faiss-cpu
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+tavily-python
