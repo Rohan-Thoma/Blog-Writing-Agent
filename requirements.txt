@@ -10,3 +10,5 @@ faiss-cpu
 langgraph-checkpoint-postgres
 psycopg[binary,pool]
 tavily-python
+langchain-google-genai
+google-generativeai
